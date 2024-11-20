@@ -1,9 +1,5 @@
 # Project 4
 
-## Contributors
- - Raj Vora, 35551411
- - Rushil Patel, 66999320
-
 ## Problem Definition
 
 Implement a Twitter-like engine with the following functionality:
@@ -64,3 +60,7 @@ Implement a tester/simulator to test the above
 ![mentions graph](./mention.png)
 ![hashtag graph](./hashtag.png)
 ![timeline graph](./timeline.png)
+
+## Contributors
+- [@raj-vora](https://github.com/raj-vora)
+- [@rushilp1](https://github.com/rushilp1)
